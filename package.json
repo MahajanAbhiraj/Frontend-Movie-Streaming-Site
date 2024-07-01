@@ -34,7 +34,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "preinstall": "npm install --force",
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
